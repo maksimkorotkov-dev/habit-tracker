@@ -152,7 +152,3 @@ The application uses the following data models:
 - **Daily Tasks** - Tasks associated with daily entries
 - **Notes** - Standalone notes with rich text content
 - **Tasks** - Independent task items
-
-## License
-
-MIT
